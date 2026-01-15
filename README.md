@@ -1,5 +1,7 @@
 # Asset Depreciation Web App
 
+[Live Preview](https://assets.neuhaus.co)
+
 A clean, modern single-page web application to calculate and visualize asset depreciation.
 
 ## Features
