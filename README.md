@@ -26,7 +26,7 @@ A clean, modern single-page web application to calculate and visualize asset dep
 No installation required. Just clone the repo and open the file.
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/aneuhaus/asset-deprec-html.git
 open index.html
 ```
 
